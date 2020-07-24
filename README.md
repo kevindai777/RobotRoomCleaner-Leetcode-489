@@ -3,6 +3,6 @@
 Leetcode Question 489 (Hard)
 
 Technique Used in Question:
-BFS, Hashset
+Backtracking, BFS, Hashset
 
 [Link to Question](https://leetcode.com/problems/robot-room-cleaner/)
